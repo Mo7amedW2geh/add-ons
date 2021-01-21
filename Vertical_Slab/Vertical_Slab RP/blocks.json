@@ -1,0 +1,11 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "block:vertical_slab": {
+    "textures": "vertical_slab",
+		"sound": "wood"
+  }
+}
